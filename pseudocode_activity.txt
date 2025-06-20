@@ -1,0 +1,19 @@
+-- Pseudocde Activity Manica Thea --
+
+Start
+1. Grab the alarm clock or open the clock app on phone.
+2. Set an alarm in clock/clock app. (Specify the correct AM/PM time)
+3. Set a ringer of alarm to be Clairo "Flaming Hot Cheetos".
+4.Set vibrate for 10 seconds on alarm.
+
+When the alarm rings:
+1. Snooze the alarm.
+ a. Give 5 more minutes.
+ b. Give 10 more minutes.
+
+repeat till extra time is over
+ a. Give x more minutes.
+ b.Stop the alarm and wake up.
+
+2. Stop the alarm and wake up.
+End
