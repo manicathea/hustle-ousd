@@ -23,8 +23,8 @@ number_list.remove(number_list[1])
 print(number_list)
 
 #Task 3 
-books = {"Raina Telgemeier" : "Sisters", "The Rainbow Fish" : "Marcus Pfister", "Born a Crime" : "Trevor Noah", "The 48 Laws of Power" : "Robert Greene"} 
-print(books.keys())
+books = {"Sisters" : "Raina Telgemeier", "The Rainbow Fish" : "Marcus Pfister", "Born a Crime" : "Trevor Noah", "The 48 Laws of Power" : "Robert Greene"} 
+print (books.keys)
 print(books.values())
 print(books.get("Raina Telgemeier"))
 books.pop('Born a Crime')
