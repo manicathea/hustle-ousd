@@ -13,7 +13,7 @@ def create(recipe):
 #Step 3 
 def read(index):
     if index < len(cookbook):
-        return cookbook[index]
+        print(cookbook[index])
     else:
         print("please pick an index within the range")
 
